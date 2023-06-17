@@ -1,1 +1,10 @@
-// Code your solutions in this file
+
+
+function countDown(mmm){
+    let countDown = 10;
+    while (countDown > -1) {
+      console.log(countDown--);
+    }
+}
+
+
